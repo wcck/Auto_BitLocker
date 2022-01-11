@@ -1,8 +1,8 @@
 # AutoBitLocker
-Automatically execute bit locker on windows
+Automatically execute BitLocker on windows
 
 # Introduciton
-BitLocker is encrypto/decrypto disk tool on windows
+BitLocker is encrypto and decrypto disk tool on windows
 
 
 # How to use it
